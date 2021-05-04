@@ -1,0 +1,2 @@
+# DET-MiniProjekt
+FP-miniProjekt
